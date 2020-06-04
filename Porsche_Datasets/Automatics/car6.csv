@@ -1,59 +1,57 @@
 car,condition,milage,extar_info
-2015 Porsche 911 Turbo S,Used,7400 mi.
-2013 Porsche 911 Carrera S,Porsche Certified,27492 mi.
-2019 Porsche 911,Used,12089 mi.
-2018 Porsche 911 Carrera,Used,22323 mi.
-2019 Porsche 911 Turbo S,Porsche Certified,8970 mi.
-2019 Porsche 911 GT3 RS,Used,2582 mi.
-2012 Porsche 911 Carrera S,Used,56436 mi.
-2017 Porsche 911 Turbo S,Used,8384 mi.
-2015 Porsche 911 Turbo,Used,19671 mi.
-2016 Porsche 911,Used,7925 mi.
-2018 Porsche 911 GT2 RS,Used,1115 mi.
-2016 Porsche 911 Turbo S,Porsche Certified,18601 mi.
-2017 Porsche 911 Carrera,Porsche Certified,17892 mi.
-2013 Porsche 911 Carrera S,Used,19732 mi.
-2014 Porsche 911 Turbo S,Used,25935 mi.
-2018 Porsche 911 Turbo S,Used,5975 mi.
-2018 Porsche 911 Turbo,Used,5388 mi.
-2015 Porsche 911 Turbo S,Used,10650 mi.
-2015 Porsche 911 GT3,Used,2300 mi.
-2017 Porsche 911 Carrera 4S,Used,22789 mi.
-2015 Porsche 911 GT3,Used,19510 mi.
-2018 Porsche 911 Carrera S,Used,18213 mi.
-2015 Porsche 911 GT3,Used,6078 mi.
-2018 Porsche 911 Turbo,Used,3461 mi.
-2017 Porsche 911 Turbo S,Used,21998 mi.
-2016 Porsche 911 Carrera,Used,10805 mi.
-2015 Porsche 911 Turbo,Porsche Certified,22246 mi.
-2018 Porsche 911 Carrera S,Porsche Certified,5980 mi.
-2017 Porsche 911 Carrera S,Used,17146 mi.
-2014 Porsche 911 GT3,Used,7914 mi.
-2017 Porsche 911 Turbo,Used,40880 mi.
-2018 Porsche 911 Carrera S,Porsche Certified,2536 mi.
-2009 Porsche 911 Carrera S,Used,29218 mi.
-2017 Porsche 911 Carrera S,Used,4133 mi.
-2009 Porsche 911 Turbo Cabriolet,Used,28521 mi.
-2019 Porsche 911 Turbo,Used,3836 mi.
-2014 Porsche 911 Turbo S,Used,9151 mi.
-2019 Porsche 911 Turbo,Used,37 mi.
-2018 Porsche 911 GT2 RS,Used,7376 mi.
-2015 Porsche 911 Turbo,Used,37541 mi.
-2016 Porsche 911 Targa 4S,Used,23000 mi.
-2011 Porsche 911 Turbo S,Used,20551 mi.
-2011 Porsche 911 Turbo,Used,9695 mi.
-2017 Porsche 911 Carrera,Used,11064 mi.
-2018 Porsche 911 GT2 RS,Porsche Certified,1715 mi.
-2017 Porsche 911 Turbo S,Porsche Certified,15070 mi.
-2018 Porsche 911 Turbo S,Used,9290 mi.
-2013 Porsche 911 Turbo S,Used,8981 mi.
-2014 Porsche 911 Carrera S,Used,21930 mi.
-2017 Porsche 911 Carrera S,Used,11086 mi.
-2015 Porsche 911 GT3,Used,10140 mi.
-2015 Porsche 911 Turbo,Used,9514 mi.
-2018 Porsche 911 GT2 RS,Used,16 mi.
-2019 Porsche 911 GT3 RS,Used,1829 mi.
-2014 Porsche 911 Carrera S,Used,52791 mi.
-2018 Porsche 911 Turbo S,Porsche Certified,3756 mi.
-2012 Porsche 911 Carrera 4 GTS,Used,29000 mi.
-2018 Porsche 911,Porsche Certified,5555 mi.
+2015 Porsche 911 Turbo,Used,19671 mi.,109999
+2016 Porsche 911,Used,7925 mi.,113380
+2018 Porsche 911 GT2 RS,Used,1115 mi.,319900
+2018 Porsche 911 Carrera,Used,22323 mi.,84590
+2016 Porsche 911 Turbo S,Porsche Certified,18601 mi.,132000
+2017 Porsche 911 Carrera,Porsche Certified,17892 mi.,78998
+2013 Porsche 911 Carrera S,Used,19732 mi.,69950
+2014 Porsche 911 Turbo S,Used,25935 mi.,119999
+2018 Porsche 911 Turbo S,Used,5975 mi.,165900
+2018 Porsche 911 Turbo,Used,5388 mi.,159995
+2015 Porsche 911 Turbo S,Used,10650 mi.,134900
+2015 Porsche 911 GT3,Used,2300 mi.,147900
+2017 Porsche 911 Carrera 4S,Used,22789 mi.,103900
+2015 Porsche 911 GT3,Used,19510 mi.,129900
+2018 Porsche 911 Carrera S,Used,18213 mi.,94800
+2015 Porsche 911 GT3,Used,6078 mi.,119900
+2018 Porsche 911 Turbo,Used,3461 mi.,177575
+2017 Porsche 911 Turbo S,Used,21998 mi.,138950
+2016 Porsche 911 Carrera,Used,10805 mi.,69500
+2012 Porsche 911 Carrera S,Used,56436 mi.,51990
+2015 Porsche 911 Turbo,Porsche Certified,22246 mi.,119990
+2018 Porsche 911 Carrera S,Porsche Certified,5980 mi.,97898
+2017 Porsche 911 Carrera S,Used,17146 mi.,82498
+2014 Porsche 911 GT3,Used,7914 mi.,129950
+2017 Porsche 911 Turbo,Used,40880 mi.,124994
+2018 Porsche 911 Carrera S,Porsche Certified,2536 mi.,101990
+2009 Porsche 911 Carrera S,Used,29218 mi.,54999
+2017 Porsche 911 Carrera S,Used,4133 mi.,99998
+2019 Porsche 911 Turbo,Used,3836 mi.,159900
+2014 Porsche 911 Turbo S,Used,9151 mi.,119995
+2019 Porsche 911 Turbo,Used,37 mi.,149881
+2018 Porsche 911 GT2 RS,Used,7376 mi.,329991
+2015 Porsche 911 Turbo,Used,37541 mi.,97990
+2016 Porsche 911 Targa 4S,Used,23000 mi.,103900
+2011 Porsche 911 Turbo S,Used,20551 mi.,109998
+2011 Porsche 911 Turbo,Used,9695 mi.,95000
+2017 Porsche 911 Carrera,Used,11064 mi.,91598
+2018 Porsche 911 GT2 RS,Porsche Certified,1715 mi.,324777
+2017 Porsche 911 Turbo S,Porsche Certified,15070 mi.,164958
+2018 Porsche 911 Turbo S,Used,9290 mi.,170995
+2013 Porsche 911 Turbo S,Used,8981 mi.,109999
+2014 Porsche 911 Carrera S,Used,21930 mi.,75000
+2017 Porsche 911 Carrera S,Used,11086 mi.,108995
+2015 Porsche 911 GT3,Used,10140 mi.,116000
+2015 Porsche 911 Turbo,Used,9514 mi.,115900
+2018 Porsche 911 GT2 RS,Used,16 mi.,354900
+2019 Porsche 911 GT3 RS,Used,1829 mi.,237991
+2014 Porsche 911 Carrera S,Used,52791 mi.,61790
+2018 Porsche 911 Turbo S,Porsche Certified,3756 mi.,169899
+2012 Porsche 911 Carrera 4 GTS,Used,29000 mi.,70000
+2018 Porsche 911,Porsche Certified,5555 mi.,126898
+2015 Porsche 911 Turbo S,Used,9989 mi.,149995
+2017 Porsche 911 Turbo,Used,43547 mi.,124990
+2017 Porsche 911 Carrera 4S,Porsche Certified,35366 mi.,96995
+2014 Porsche 911 Turbo,Used,9492 mi.,111777
+2014 Porsche 911 Turbo S,Used,14084 mi.,117977
