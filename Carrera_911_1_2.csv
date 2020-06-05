@@ -1,0 +1,811 @@
+,condition,milage,Price,Year,Brand,Model,Model_Vers,S_RS,Cabriolet,Color,Transmission
+0,Used,47649,48950,2012,Porsche,911,Carrera,Black,Edition,Black,Automatic
+1,Used,19020,67988,2015,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+3,Used,56436,51990,2012,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+4,Used,85000,34900,2009,Porsche,911,Carrera,S,Cabriolet,Black,Automatic
+5,Used,15808,96995,2018,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+6,Used,48750,49999,2009,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+10,Used,20039,67790,2013,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+11,Used,29405,55000,2012,Porsche,911,Carrera,4,Hardtop,Black,Automatic
+12,Used,54905,53000,2012,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+13,Used,35475,67395,2013,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+14,Used,40208,59991,2016,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+16,Porsche Certified,47438,69998,2017,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+19,Porsche Certified,18823,75991,2014,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+20,Porsche Certified,32133,69991,2016,Porsche,911,Carrera,4,Hardtop,Black,Automatic
+23,Used,46369,48995,2009,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+24,Used,16004,95800,2018,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+25,Used,32845,54750,2013,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+29,Used,9574,108994,2018,Porsche,911,Carrera,GTS4,Hardtop,Black,Automatic
+30,Used,27748,49900,2009,Porsche,911,Carrera,Base,Cabriolet,Black,Automatic
+31,Used,8,114881,2019,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+32,Used,28592,64999,2012,Porsche,911,Carrera,Black,Edition,Black,Automatic
+33,Used,39508,58900,2014,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+35,Used,56154,48000,2007,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+36,Used,24640,62998,2015,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+37,Used,46699,59999,2013,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+38,Used,51392,45980,2010,Porsche,911,Carrera,4,Cabriolet,Black,Automatic
+39,Used,38463,67999,2014,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+40,Used,19727,75990,2014,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+41,Used,40750,55000,2012,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+42,Used,74005,34998,2008,Porsche,911,Carrera,4,Hardtop,Black,Automatic
+44,Used,46788,57990,2014,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+45,Used,38396,59900,2013,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+46,Used,40074,47999,2012,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+48,Used,31000,69995,2016,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+49,Used,20646,44548,2007,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+52,Used,20663,48900,2009,Porsche,911,Carrera,Base,Cabriolet,Black,Automatic
+53,Used,34688,67433,2014,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+54,Porsche Certified,27962,64490,2014,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+55,Used,41019,57800,2012,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+57,Used,36118,47977,2009,Porsche,911,Carrera,S,Cabriolet,Black,Automatic
+59,Used,30465,74680,2014,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+60,Used,72700,34988,2007,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+61,Used,31022,66940,2015,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+62,Used,34155,49990,2012,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+64,Used,16587,51950,2009,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+65,Used,17081,60999,2012,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+66,Used,35800,64991,2011,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+68,Used,34042,56995,2014,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+71,Used,29400,56995,2015,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+72,Used,10300,82900,2017,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+75,Used,36256,65999,2014,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+76,Used,28872,67900,2015,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+77,Used,11370,87000,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+79,Used,49611,54981,2013,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+81,Porsche Certified,26973,64898,2012,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+82,Used,23124,59980,2013,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+83,Used,37884,51950,2010,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+84,Used,32322,56988,2014,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+85,Used,59850,59999,2014,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+86,Used,69978,58900,2014,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+90,Used,54993,57850,2016,Porsche,911,Carrera,4,Hardtop,Black,Automatic
+91,Used,7299,93911,2018,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+92,Used,93033,29995,2008,Porsche,911,Carrera,S,Cabriolet,Black,Automatic
+93,Used,50695,39995,2008,Porsche,911,Carrera,S,Cabriolet,Black,Automatic
+95,Used,24431,69900,2016,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+96,Used,15157,72750,2015,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+97,Used,36422,67990,2016,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+98,Used,12693,85000,2016,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+99,Used,34281,85989,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+100,Used,40291,41500,2010,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+101,Porsche Certified,51312,56995,2013,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+103,Used,4807,66789,2014,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+104,Used,33302,55850,2010,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+105,Used,32477,98949,2019,Porsche,911,Carrera,GTS,Hardtop,Black,Automatic
+106,Used,8508,90399,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+107,Used,22323,84590,2018,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+108,Used,23556,74995,2013,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+109,Used,17130,89980,2016,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+110,Used,1255,129900,2019,Porsche,911,Carrera,GTS4,Hardtop,Black,Automatic
+111,Used,20187,85904,2016,Porsche,911,Carrera,GTS,Hardtop,Black,Automatic
+112,Used,6118,78800,2014,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+114,Used,53500,52500,2013,Porsche,911,Carrera,4,Hardtop,Black,Automatic
+115,Used,9482,69988,2016,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+116,Used,20412,67994,2012,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+117,Used,13522,72000,2012,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+121,Used,36000,84900,2017,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+123,Used,15050,79991,2018,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+124,Used,17000,97700,2016,Porsche,911,Carrera,GTS,Hardtop,Black,Automatic
+125,Used,72047,49900,2012,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+127,Used,31501,69800,2012,Porsche,911,Carrera,GTS4,Hardtop,Black,Automatic
+128,Porsche Certified,15235,91888,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+129,Porsche Certified,2836,107498,2019,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+130,Used,9421,79950,2017,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+131,Used,6321,96984,2019,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+132,Porsche Certified,22011,74995,2017,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+133,Porsche Certified,1332,86839,2018,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+134,Used,33853,91500,2017,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+137,Used,18485,71875,2016,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+138,Used,31017,79900,2015,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+139,Used,86000,28888,2007,Porsche,911,Carrera,S,Cabriolet,Black,Automatic
+141,Used,7291,119995,2018,Porsche,911,Carrera,GTS,Hardtop,Black,Automatic
+143,Used,25335,73995,2017,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+146,Used,1596,95192,2019,Porsche,911,Carrera,T,Hardtop,Black,Automatic
+148,Used,34369,69900,2013,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+149,Used,64107,47995,2010,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+150,Porsche Certified,7688,99995,2016,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+151,Used,48682,56990,2015,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+153,Porsche Certified,30705,88939,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+155,Used,34520,37000,2008,Porsche,911,Carrera,S,Cabriolet,Black,Automatic
+156,Used,14241,79888,2017,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+157,Used,32500,59999,2010,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+158,Porsche Certified,28376,73998,2013,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+161,Used,11710,79995,2014,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+162,Porsche Certified,45668,73924,2014,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+163,Porsche Certified,14826,74900,2014,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+164,Used,24300,65000,2014,Porsche,911,Carrera,4,Hardtop,Black,Automatic
+165,Used,77524,40900,2008,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+168,Used,6793,127489,2018,Porsche,911,Carrera,GTS,Hardtop,Black,Automatic
+169,Porsche Certified,22416,88094,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+171,Porsche Certified,11862,98495,2016,Porsche,911,Carrera,GTS,Hardtop,Black,Automatic
+172,Porsche Certified,28906,61995,2014,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+173,Used,13542,97950,2017,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+175,Used,11803,74988,2012,Porsche,911,Carrera,GTS,Hardtop,Black,Automatic
+176,Porsche Certified,25690,81900,2014,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+180,Used,19560,81800,2015,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+183,Used,3607,90306,2018,Porsche,911,Carrera,T,Hardtop,Black,Automatic
+187,Porsche Certified,32023,88995,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+190,Used,15934,84900,2014,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+191,Used,25854,76888,2013,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+192,Porsche Certified,7515,80900,2013,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+197,Used,32994,74199,2012,Porsche,911,Carrera,GTS,Hardtop,Black,Automatic
+200,Used,26088,80000,2012,Porsche,911,Carrera,GTS4,Hardtop,Black,Automatic
+204,Used,20718,82991,2017,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+206,Used,27427,57998,2012,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+208,Used,21245,97580,2018,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+209,Porsche Certified,17732,101898,2018,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+210,Used,19828,82988,2017,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+214,Used,29101,61999,2012,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+215,Used,35652,60800,2012,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+217,Porsche Certified,10021,102000,2017,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+222,Used,18636,93598,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+223,Used,24442,92000,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+226,Porsche Certified,13220,106900,2017,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+228,Porsche Certified,27492,68999,2013,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+237,Porsche Certified,17892,78998,2017,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+238,Used,19732,69950,2013,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+244,Used,22789,103900,2017,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+246,Used,18213,94800,2018,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+250,Used,10805,69500,2016,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+252,Porsche Certified,5980,97898,2018,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+253,Used,17146,82498,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+256,Porsche Certified,2536,101990,2018,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+257,Used,29218,54999,2009,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+258,Used,4133,99998,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+266,Used,11064,91598,2017,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+271,Used,21930,75000,2014,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+272,Used,11086,108995,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+277,Used,52791,61790,2014,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+279,Used,29000,70000,2012,Porsche,911,Carrera,GTS4,Hardtop,Black,Automatic
+283,Porsche Certified,35366,96995,2017,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+288,Used,24368,75995,2012,Porsche,911,Carrera,GTS,Hardtop,Black,Automatic
+290,Used,22325,86955,2015,Porsche,911,Carrera,GTS,Hardtop,Black,Automatic
+293,Porsche Certified,11315,105995,2017,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+294,Used,21876,72495,2013,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+308,Used,3738,89877,2017,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+320,Used,22323,84590,2018,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+322,Used,125,143970,2019,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+323,Porsche Certified,4177,125220,2018,Porsche,911,Carrera,GTS,Hardtop,Black,Automatic
+324,Used,23000,76500,2015,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+325,Used,11607,106900,2017,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+327,Used,3100,127298,2018,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+329,Porsche Certified,27378,77995,2013,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+334,Used,40460,66981,2016,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+336,Porsche Certified,11938,89995,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+337,Used,32461,87777,2016,Porsche,911,Carrera,Black,Edition,Black,Automatic
+338,Used,73000,45000,2014,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+339,Used,23400,57888,2013,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+340,Used,21800,58900,2012,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+341,Used,48695,49995,2012,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+342,Used,35361,87900,2017,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+343,Used,39007,69980,2017,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+344,Used,33000,55000,2013,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+346,Used,13469,95000,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+347,Used,11080,106998,2017,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+350,Used,6746,105900,2016,Porsche,911,Carrera,GTS,Hardtop,Black,Automatic
+352,Used,56436,51990,2012,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+353,Used,15430,89995,2017,Porsche,911,Carrera,4,Hardtop,Black,Automatic
+354,Used,19922,62990,2013,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+356,Used,34660,63000,2016,Porsche,911,Carrera,Black,Edition,Black,Automatic
+358,Used,7233,72609.41927,2018,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+360,Used,2183,71800,2013,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+361,Used,47690,72609.41927,2011,Porsche,911,Carrera,GTS,Hardtop,Black,Automatic
+363,Used,17282,79850,2017,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+364,Porsche Certified,6119,113000,2019,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+367,Used,34200,86864,2017,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+368,Porsche Certified,20373,91000,2017,Porsche,911,Carrera,S,Hardtop,Black,Automatic
+371,Used,50319,52997,2009,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+372,Used,39539,54985,2013,Porsche,911,Carrera,4,Hardtop,Black,Automatic
+374,Porsche Certified,31765,82900,2017,Porsche,911,Carrera,Base,Hardtop,Black,Automatic
+375,Used,116291,72609.41927,2007,Porsche,911,Carrera,4S,Hardtop,Black,Automatic
+376,Used,86000,31888,2007,Porsche,911,Carrera,S,Cabriolet,Black,Automatic
+377,Used,71021,50000,2015,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+378,Used,33146,61000,2015,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+379,Used,14706,89995,2017,Porsche,911,Carrera,S,Hardtop,Blue,Automatic
+380,Used,42146,55499,2012,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+381,Used,9942,82900,2017,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+384,Used,22120,77500,2018,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+385,Used,29422,90000,2017,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+386,Used,21632,65999,2012,Porsche,911,Carrera,S,Hardtop,Blue,Automatic
+387,Porsche Certified,6500,85911,2016,Porsche,911,Carrera,S,Hardtop,Blue,Automatic
+388,Used,8085,114981,2018,Porsche,911,Carrera,GTS,Hardtop,Blue,Automatic
+389,Used,40387,69995,2017,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+390,Used,8470,111500,2017,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+391,Used,36578,54999,2013,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+392,Used,33851,53000,2014,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+393,Used,2593,127900,2019,Porsche,911,Carrera,GTS,Hardtop,Blue,Automatic
+394,Porsche Certified,7467,95995,2018,Porsche,911,Carrera,S,Hardtop,Blue,Automatic
+395,Used,11082,78498,2013,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+396,Porsche Certified,18318,84983,2017,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+398,Used,17980,84900,2017,Porsche,911,Carrera,S,Hardtop,Blue,Automatic
+400,Used,60456,43995,2009,Porsche,911,Carrera,S,Cabriolet,Blue,Automatic
+401,Used,26360,70500,2017,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+403,Used,18240,55999,2012,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+404,Used,13111,66664,2015,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+405,Used,24000,59995,2009,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+406,Porsche Certified,317,132790,2019,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+408,Used,23625,82894,2016,Porsche,911,Carrera,GTS,Hardtop,Blue,Automatic
+409,Used,24187,75998,2015,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+410,Used,12470,113988,2018,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+411,Used,8547,99000,2017,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+414,Used,17600,93500,2017,Porsche,911,Carrera,S,Hardtop,Blue,Automatic
+417,Used,58177,39995,2007,Porsche,911,Carrera,S,Cabriolet,Blue,Automatic
+419,Used,26789,61783,2012,Porsche,911,Carrera,S,Hardtop,Blue,Automatic
+420,Used,20323,75988,2018,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+421,Porsche Certified,37081,61900,2014,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+422,Used,70865,32888,2008,Porsche,911,Carrera,S,Cabriolet,Blue,Automatic
+424,Used,62890,28800,2007,Porsche,911,Carrera,Base,Cabriolet,Blue,Automatic
+425,Used,37505,61998,2016,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+426,Used,28955,75900,2017,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+429,Porsche Certified,46006,65000,2016,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+430,Used,6817,99995,2017,Porsche,911,Carrera,S,Hardtop,Blue,Automatic
+433,Porsche Certified,9176,94900,2017,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+435,Porsche Certified,17377,77995,2017,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+436,Porsche Certified,3249,96900,2019,Porsche,911,Carrera,T,Hardtop,Blue,Automatic
+437,Used,48000,52500,2013,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+439,Used,30559,98144,2017,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+440,Used,7977,98900,2019,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+444,Used,7981,97970,2018,Porsche,911,Carrera,S,Hardtop,Blue,Automatic
+446,Used,28125,79900,2018,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+450,Used,45288,71499,2015,Porsche,911,Carrera,S,Hardtop,Blue,Automatic
+457,Used,38607,78988,2017,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+458,Used,4623,109949,2018,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+461,Used,3624,122019,2019,Porsche,911,Carrera,GTS,Hardtop,Blue,Automatic
+464,Used,9652,96383,2015,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+471,Used,10657,98988,2017,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+473,Used,7642,94992,2017,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+474,Used,5778,110594,2019,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+475,Used,28359,67955,2017,Porsche,911,Carrera,4,Hardtop,Blue,Automatic
+476,Porsche Certified,9103,122900,2018,Porsche,911,Carrera,GTS,Hardtop,Blue,Automatic
+477,Used,18433,85500,2017,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+478,Used,3918,115955,2017,Porsche,911,Carrera,S,Hardtop,Blue,Automatic
+486,Porsche Certified,24821,78800,2017,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+487,Used,24955,92495,2017,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+490,Porsche Certified,2792,114993,2018,Porsche,911,Carrera,4S,Hardtop,Blue,Automatic
+491,Used,14014,85995,2015,Porsche,911,Carrera,GTS,Hardtop,Blue,Automatic
+492,Porsche Certified,22596,77898,2017,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+494,Porsche Certified,11638,102995,2019,Porsche,911,Carrera,S,Hardtop,Blue,Automatic
+495,Porsche Certified,3109,104987,2017,Porsche,911,Carrera,S,Hardtop,Blue,Automatic
+497,Porsche Certified,14570,87900,2018,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+498,Used,31000,87500,2017,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+501,Used,21681,72609.41927,2008,Porsche,911,Carrera,Base,Cabriolet,Blue,Automatic
+502,Used,39770,71850,2017,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+503,Porsche Certified,23492,82900,2017,Porsche,911,Carrera,Base,Hardtop,Blue,Automatic
+504,Used,70427,38900,2009,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+505,Used,15541,66000,2015,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+509,Used,27268,69995,2015,Porsche,911,Carrera,4,Hardtop,Other,Automatic
+510,Used,41148,56000,2014,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+512,Used,75658,46997,2012,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+515,Used,18770,58777,2013,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+519,Porsche Certified,9742,88995,2018,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+522,Used,22379,59950,2009,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+523,Used,62,133500,2019,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+524,Used,25799,70900,2014,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+527,Used,28724,50900,2015,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+528,Used,38264,51900,2009,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+532,Used,28822,76900,2014,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+544,Used,17157,73888,2014,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+549,Used,15000,82900,2015,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+550,Used,12312,79995,2014,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+552,Used,10727,97950,2017,Porsche,911,Carrera,GTS,Hardtop,Other,Automatic
+555,Used,63188,58998,2015,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+558,Used,39641,56999,2009,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+567,Used,67,129900,2019,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+568,Used,1914,92900,2018,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+569,Used,27643,73990,2018,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+572,Used,16271,76128,2015,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+575,Used,175,194900,2016,Porsche,911,Carrera,GTS,Hardtop,Other,Automatic
+580,Used,6672,85900,2018,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+584,Used,10442,139995,2019,Porsche,911,Carrera,GTS4,Hardtop,Other,Automatic
+586,Used,4126,112995,2019,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+600,Porsche Certified,5043,104995,2019,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+602,Used,14374,68900,2018,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+603,Porsche Certified,35959,59950,2013,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+605,Used,46857,64000,2014,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+606,Used,35103,68398,2018,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+608,Used,23811,62885,2012,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+610,Used,41594,41999,2007,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+611,Used,34154,67000,2014,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+612,Used,31698,59900,2012,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+616,Used,39829,65988,2015,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+617,Used,88111,29988,2007,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+618,Used,94249,59995,2013,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+619,Used,50712,36800,2008,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+620,Used,64056,53815,2012,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+622,Used,28342,69984,2016,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+624,Used,53744,49590,2009,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+625,Used,56350,53890,2009,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+626,Used,9000,79100,2017,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+628,Used,8580,97745,2016,Porsche,911,Carrera,GTS,Hardtop,Other,Automatic
+629,Used,41618,56898,2013,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+630,Used,27831,65996,2011,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+631,Porsche Certified,36468,49790,2011,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+632,Porsche Certified,10959,88790,2017,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+633,Used,16849,89900,2017,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+635,Used,78910,31500,2008,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+636,Used,67525,59800,2014,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+638,Used,76275,26888,2007,Porsche,911,Carrera,Base,Cabriolet,Other,Automatic
+640,Used,44717,54995,2014,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+643,Used,24167,74900,2013,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+644,Used,27018,63900,2012,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+647,Used,51350,37875,2007,Porsche,911,Carrera,S,Cabriolet,Other,Automatic
+649,Used,38879,53900,2009,Porsche,911,Carrera,4,Cabriolet,Other,Automatic
+650,Used,24779,70955,2013,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+652,Used,12161,64950,2010,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+653,Used,39994,51950,2010,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+654,Porsche Certified,14395,83991,2017,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+657,Used,20251,71999,2014,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+658,Used,130000,34900,2013,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+659,Used,29476,57995,2012,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+660,Used,53605,46777,2013,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+661,Used,33717,62995,2014,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+667,Used,16823,71899,2014,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+668,Used,12735,97949,2017,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+671,Used,22149,90999,2017,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+672,Used,67968,55500,2013,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+677,Used,23622,45999,2007,Porsche,911,Carrera,S,Cabriolet,Other,Automatic
+678,Used,28000,56000,2013,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+679,Used,49568,38998,2007,Porsche,911,Carrera,S,Cabriolet,Other,Automatic
+680,Used,86555,47765,2013,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+681,Used,13148,75980,2017,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+682,Porsche Certified,30846,69980,2015,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+683,Used,28496,51950,2009,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+684,Used,16016,69995,2012,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+686,Porsche Certified,33965,84347,2017,Porsche,911,Carrera,4,Hardtop,Other,Automatic
+688,Used,47883,49888,2009,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+690,Porsche Certified,39154,59800,2014,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+692,Used,26324,59000,2010,Porsche,911,Carrera,4S,Cabriolet,Other,Automatic
+693,Used,54579,49299,2010,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+694,Used,63551,52599,2009,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+695,Used,46524,64991,2013,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+698,Used,49745,57500,2016,Porsche,911,Carrera,Base,Hardtop,Other,Automatic
+699,Used,30156,72500,2016,Porsche,911,Carrera,S,Hardtop,Other,Automatic
+700,Used,25,152660,2019,Porsche,911,Carrera,GTS4,Hardtop,Other,Automatic
+701,Used,28828,84995,2016,Porsche,911,Carrera,4S,Hardtop,Other,Automatic
+702,Used,14374,68900,2018,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+703,Porsche Certified,35959,59950,2013,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+705,Used,46857,64000,2014,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+706,Used,35103,68398,2018,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+708,Used,23811,62885,2012,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Automatic
+710,Used,41594,41999,2007,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+711,Used,34154,67000,2014,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+712,Used,31698,59900,2012,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Automatic
+716,Used,39829,65988,2015,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+717,Used,88111,29988,2007,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+718,Used,94249,59995,2013,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+719,Used,50712,36800,2008,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+720,Used,64056,53815,2012,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Automatic
+722,Used,28342,69984,2016,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+724,Used,53744,49590,2009,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+725,Used,56350,53890,2009,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Automatic
+726,Used,9000,79100,2017,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+728,Used,8580,97745,2016,Porsche,911,Carrera,GTS,Hardtop,Gray/Silver,Automatic
+729,Used,41618,56898,2013,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+730,Used,27831,65996,2011,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Automatic
+731,Porsche Certified,36468,49790,2011,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+732,Porsche Certified,10959,88790,2017,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+733,Used,16849,89900,2017,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+735,Used,78910,31500,2008,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+736,Used,67525,59800,2014,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Automatic
+738,Used,76275,26888,2007,Porsche,911,Carrera,Base,Cabriolet,Gray/Silver,Automatic
+740,Used,44717,54995,2014,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+743,Used,24167,74900,2013,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Automatic
+744,Used,27018,63900,2012,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+747,Used,51350,37875,2007,Porsche,911,Carrera,S,Cabriolet,Gray/Silver,Automatic
+749,Used,38879,53900,2009,Porsche,911,Carrera,4,Cabriolet,Gray/Silver,Automatic
+750,Used,24779,70955,2013,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+752,Used,12161,64950,2010,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+753,Used,39994,51950,2010,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+754,Porsche Certified,14395,83991,2017,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+757,Used,20251,71999,2014,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Automatic
+758,Used,130000,34900,2013,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+759,Used,29476,57995,2012,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+760,Used,53605,46777,2013,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+761,Used,33717,62995,2014,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+767,Used,16823,71899,2014,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+768,Used,12735,97949,2017,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Automatic
+771,Used,22149,90999,2017,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Automatic
+772,Used,67968,55500,2013,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+777,Used,23622,45999,2007,Porsche,911,Carrera,S,Cabriolet,Gray/Silver,Automatic
+778,Used,28000,56000,2013,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+779,Used,49568,38998,2007,Porsche,911,Carrera,S,Cabriolet,Gray/Silver,Automatic
+780,Used,86555,47765,2013,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+781,Used,13148,75980,2017,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+782,Porsche Certified,30846,69980,2015,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+783,Used,28496,51950,2009,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+784,Used,16016,69995,2012,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+786,Porsche Certified,33965,84347,2017,Porsche,911,Carrera,4,Hardtop,Gray/Silver,Automatic
+788,Used,47883,49888,2009,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Automatic
+790,Porsche Certified,39154,59800,2014,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+792,Used,26324,59000,2010,Porsche,911,Carrera,4S,Cabriolet,Gray/Silver,Automatic
+793,Used,54579,49299,2010,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+794,Used,63551,52599,2009,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Automatic
+795,Used,46524,64991,2013,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+798,Used,49745,57500,2016,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Automatic
+799,Used,30156,72500,2016,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Automatic
+800,Used,25,152660,2019,Porsche,911,Carrera,GTS4,Hardtop,Gray/Silver,Automatic
+801,Used,28828,84995,2016,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Automatic
+802,Used,26274,63995,2016,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+804,Used,51845,48950,2008,Porsche,911,Carrera,4S,Cabriolet,White,Automatic
+805,Porsche Certified,17446,81999,2018,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+809,Used,52971,34995,2008,Porsche,911,Carrera,4,Cabriolet,White,Automatic
+811,Used,41000,59990,2012,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+812,Used,22985,78499,2017,Porsche,911,Carrera,4,Hardtop,White,Automatic
+815,Used,41056,58990,2016,Porsche,911,Carrera,4,Hardtop,White,Automatic
+817,Used,39656,54299,2013,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+821,Used,29214,59991,2013,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+822,Porsche Certified,56797,69984,2015,Porsche,911,Carrera,S,Hardtop,White,Automatic
+823,Used,31288,69900,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+824,Used,75200,54590,2012,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+825,Used,4113,103995,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+827,Used,58785,37986,2008,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+828,Used,61833,55996,2011,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+829,Used,13600,66990,2012,Porsche,911,Carrera,S,Hardtop,White,Automatic
+830,Used,36843,78777,2015,Porsche,911,Carrera,S,Hardtop,White,Automatic
+831,Used,37565,66900,2011,Porsche,911,Carrera,GTS,Hardtop,White,Automatic
+835,Used,6760,134900,2018,Porsche,911,Carrera,GTS4,Hardtop,White,Automatic
+838,Used,32525,71950,2012,Porsche,911,Carrera,GTS4,Hardtop,White,Automatic
+839,Used,29498,32000,2013,Porsche,911,Carrera,S,Hardtop,White,Automatic
+840,Used,41359,59991,2013,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+841,Used,24719,68850,2014,Porsche,911,Carrera,S,Hardtop,White,Automatic
+844,Used,7829,69950,2014,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+845,Used,26894,69950,2014,Porsche,911,Carrera,S,Hardtop,White,Automatic
+847,Used,31863,66950,2011,Porsche,911,Carrera,GTS,Hardtop,White,Automatic
+848,Porsche Certified,15135,82795,2015,Porsche,911,Carrera,S,Hardtop,White,Automatic
+851,Used,32377,76998,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+852,Used,53064,43995,2009,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+853,Used,52992,64995,2013,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+854,Used,52300,42000,2009,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+857,Used,25124,66995,2016,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+859,Used,54700,39500,2008,Porsche,911,Carrera,S,Cabriolet,White,Automatic
+861,Porsche Certified,52677,46353,2010,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+866,Used,68208,35995,2008,Porsche,911,Carrera,S,Cabriolet,White,Automatic
+868,Used,34642,43991,2008,Porsche,911,Carrera,S,Hardtop,White,Automatic
+869,Used,42367,66900,2014,Porsche,911,Carrera,S,Hardtop,White,Automatic
+870,Used,25086,75900,2015,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+872,Used,100367,28888,2007,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+873,Used,26917,85991,2016,Porsche,911,Carrera,GTS,Hardtop,White,Automatic
+874,Used,50972,51999,2009,Porsche,911,Carrera,S,Cabriolet,White,Automatic
+877,Used,22792,67995,2013,Porsche,911,Carrera,S,Hardtop,White,Automatic
+883,Porsche Certified,10296,87800,2018,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+884,Used,58556,59994,2011,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+885,Used,36525,59999,2013,Porsche,911,Carrera,S,Hardtop,White,Automatic
+886,Used,39881,39999,2007,Porsche,911,Carrera,S,Cabriolet,White,Automatic
+888,Used,13786,68999,2015,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+890,Used,22978,86500,2016,Porsche,911,Carrera,S,Hardtop,White,Automatic
+891,Used,44999,83900,2017,Porsche,911,Carrera,S,Hardtop,White,Automatic
+892,Used,45476,69998,2014,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+893,Porsche Certified,29089,73000,2014,Porsche,911,Carrera,S,Hardtop,White,Automatic
+896,Used,5932,91589,2018,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+897,Used,18563,72990,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+899,Used,24506,73911,2014,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+901,Porsche Certified,7192,94695,2017,Porsche,911,Carrera,S,Hardtop,White,Automatic
+907,Used,5887,79850,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+908,Used,7591,84000,2018,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+910,Used,37586,69786,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+917,Used,44413,71995,2013,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+920,Used,62236,44995,2011,Porsche,911,Carrera,S,Hardtop,White,Automatic
+922,Used,14297,96991,2018,Porsche,911,Carrera,S,Hardtop,White,Automatic
+925,Porsche Certified,22840,81995,2015,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+928,Porsche Certified,22752,83186,2019,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+931,Porsche Certified,6003,122998,2019,Porsche,911,Carrera,GTS,Hardtop,White,Automatic
+933,Porsche Certified,7080,93988,2019,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+936,Used,26775,67500,2013,Porsche,911,Carrera,S,Hardtop,White,Automatic
+938,Used,40700,66999,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+939,Used,87000,33000,2008,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+940,Porsche Certified,5574,78878,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+941,Used,1806,112500,2019,Porsche,911,Carrera,S,Hardtop,White,Automatic
+942,Porsche Certified,21313,82988,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+944,Porsche Certified,8765,79980,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+946,Used,23649,83880,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+956,Used,9031,83841,2014,Porsche,911,Carrera,S,Hardtop,White,Automatic
+973,Used,7920,89998,2017,Porsche,911,Carrera,4,Hardtop,White,Automatic
+975,Porsche Certified,12904,81421,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+976,Used,26505,79900,2015,Porsche,911,Carrera,S,Hardtop,White,Automatic
+977,Porsche Certified,12750,88336,2017,Porsche,911,Carrera,4,Hardtop,White,Automatic
+978,Porsche Certified,6624,94995,2019,Porsche,911,Carrera,T,Hardtop,White,Automatic
+979,Porsche Certified,2902,122900,2019,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+982,Porsche Certified,23325,89989,2017,Porsche,911,Carrera,4,Hardtop,White,Automatic
+983,Porsche Certified,8082,94900,2017,Porsche,911,Carrera,S,Hardtop,White,Automatic
+984,Used,10814,92995,2016,Porsche,911,Carrera,GTS,Hardtop,White,Automatic
+985,Used,23258,79991,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+992,Used,9924,113995,2017,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+994,Used,37085,89996,2017,Porsche,911,Carrera,S,Hardtop,White,Automatic
+996,Used,12417,98800,2016,Porsche,911,Carrera,GTS,Hardtop,White,Automatic
+998,Used,28903,76999,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+1001,Porsche Certified,17310,86998,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+1007,Porsche Certified,14597,91998,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+1008,Used,3681,109000,2019,Porsche,911,Carrera,4,Hardtop,White,Automatic
+1010,Used,16909,84998,2017,Porsche,911,Carrera,S,Hardtop,White,Automatic
+1011,Porsche Certified,24166,80000,2015,Porsche,911,Carrera,S,Hardtop,White,Automatic
+1013,Used,9391,84888,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+1015,Used,9924,110995,2017,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+1020,Used,21136,73995,2013,Porsche,911,Carrera,S,Hardtop,White,Automatic
+1023,Porsche Certified,10501,108998,2017,Porsche,911,Carrera,S,Hardtop,White,Automatic
+1025,Used,9015,88590,2015,Porsche,911,Carrera,S,Hardtop,White,Automatic
+1026,Used,5546,109981,2019,Porsche,911,Carrera,S,Hardtop,White,Automatic
+1030,Used,19320,67000,2014,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+1035,Used,26067,94951,2017,Porsche,911,Carrera,S,Hardtop,White,Automatic
+1038,Used,16841,85950,2015,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+1039,Used,6406,86998,2016,Porsche,911,Carrera,S,Hardtop,White,Automatic
+1043,Used,25294,90000,2017,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+1044,Porsche Certified,13923,98948,2017,Porsche,911,Carrera,S,Hardtop,White,Automatic
+1045,Used,12352,74850,2014,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+1046,Used,19987,95582,2017,Porsche,911,Carrera,4S,Hardtop,White,Automatic
+1047,Porsche Certified,34541,84995,2018,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+1048,Used,9735,99998,2018,Porsche,911,Carrera,S,Hardtop,White,Automatic
+1050,Porsche Certified,7268,84800,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+1051,Used,53042,72609.41927,2013,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+1055,Used,23579,82000,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+1057,Used,34241,72609.41927,2014,Porsche,911,Carrera,S,Hardtop,White,Automatic
+1058,Used,86900,35000,2008,Porsche,911,Carrera,4,Cabriolet,White,Automatic
+1059,Porsche Certified,11384,87991,2018,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+1062,Used,4400,80995,2017,Porsche,911,Carrera,Base,Hardtop,White,Automatic
+1063,Used,31205,38000,2013,Porsche,911,Carrera,S,Hardtop,White,Automatic
+1067,Used,10,99990,2017,Porsche,911,Carrera,S,Hardtop,White,Automatic
+1068,Used,42752,58977,2012,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1070,Used,21177,62900,2017,Porsche,911,Carrera,Base,Hardtop,Red,Automatic
+1071,Used,82320,26490,2008,Porsche,911,Carrera,Base,Hardtop,Red,Automatic
+1073,Used,63720,50995,2009,Porsche,911,Carrera,4S,Cabriolet,Red,Automatic
+1076,Used,35946,71633,2014,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1077,Used,52734,33000,2007,Porsche,911,Carrera,Base,Hardtop,Red,Automatic
+1078,Porsche Certified,5336,117595,2019,Porsche,911,Carrera,4S,Hardtop,Red,Automatic
+1082,Used,28555,64869,2014,Porsche,911,Carrera,Base,Hardtop,Red,Automatic
+1085,Porsche Certified,23060,84300,2012,Porsche,911,Carrera,GTS4,Hardtop,Red,Automatic
+1087,Used,39081,44995,2008,Porsche,911,Carrera,S,Cabriolet,Red,Automatic
+1088,Used,3000,70000,2019,Porsche,911,Carrera,T,Hardtop,Red,Automatic
+1089,Used,88822,42633,2011,Porsche,911,Carrera,GTS,Hardtop,Red,Automatic
+1094,Used,20171,87795,2017,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1095,Used,31612,67898,2013,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1098,Used,5517,99495,2019,Porsche,911,Carrera,T,Hardtop,Red,Automatic
+1099,Porsche Certified,39023,72997,2015,Porsche,911,Carrera,4S,Hardtop,Red,Automatic
+1100,Used,31005,72900,2015,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1102,Used,22417,89495,2017,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1104,Used,13263,60000,2009,Porsche,911,Carrera,4S,Cabriolet,Red,Automatic
+1111,Used,34187,52000,2009,Porsche,911,Carrera,S,Cabriolet,Red,Automatic
+1112,Used,23827,91991,2014,Porsche,911,Carrera,4S,Hardtop,Red,Automatic
+1115,Used,53969,32900,2007,Porsche,911,Carrera,Base,Cabriolet,Red,Automatic
+1118,Used,20976,99900,2018,Porsche,911,Carrera,4S,Hardtop,Red,Automatic
+1119,Porsche Certified,27534,87998,2016,Porsche,911,Carrera,4S,Hardtop,Red,Automatic
+1123,Porsche Certified,7047,104995,2018,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1125,Porsche Certified,7420,99000,2019,Porsche,911,Carrera,Base,Hardtop,Red,Automatic
+1128,Porsche Certified,5714,95432,2018,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1129,Used,5709,82900,2014,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1131,Used,26821,75995,2017,Porsche,911,Carrera,Base,Hardtop,Red,Automatic
+1132,Used,9779,122550,2016,Porsche,911,Carrera,GTS,Hardtop,Red,Automatic
+1133,Used,35020,65000,2015,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1138,Used,50678,53950,2009,Porsche,911,Carrera,4S,Hardtop,Red,Automatic
+1139,Used,19482,71999,2011,Porsche,911,Carrera,GTS,Hardtop,Red,Automatic
+1140,Used,6412,96785,2017,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1143,Porsche Certified,15232,112900,2018,Porsche,911,Carrera,GTS,Hardtop,Red,Automatic
+1144,Porsche Certified,22312,97991,2017,Porsche,911,Carrera,4S,Hardtop,Red,Automatic
+1147,Used,1115,119955,2017,Porsche,911,Carrera,GTS,Hardtop,Red,Automatic
+1148,Used,14611,104995,2016,Porsche,911,Carrera,GTS,Hardtop,Red,Automatic
+1150,Used,5115,104308,2019,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1151,Porsche Certified,17066,89957,2015,Porsche,911,Carrera,GTS,Hardtop,Red,Automatic
+1155,Used,50078,82999,2017,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1156,Porsche Certified,3829,99800,2019,Porsche,911,Carrera,Base,Hardtop,Red,Automatic
+1157,Used,7301,101909,2018,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1159,Used,11453,116900,2018,Porsche,911,Carrera,GTS,Hardtop,Red,Automatic
+1160,Used,42772,58880,2012,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1162,Used,61784,36988,2008,Porsche,911,Carrera,S,Cabriolet,Red,Automatic
+1164,Used,31676,72609.41927,2013,Porsche,911,Carrera,S,Hardtop,Red,Automatic
+1166,Used,40074,47999,2012,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1168,Used,31000,69995,2016,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1169,Used,56436,51990,2012,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1170,Used,83282,39890,2012,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1171,Used,20646,44548,2007,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1174,Used,20663,48900,2009,Porsche,911,Carrera,Base,Cabriolet,Black,Manual
+1175,Used,126130,22990,2007,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1176,Used,35750,39300,2008,Porsche,911,Carrera,S,Cabriolet,Black,Manual
+1177,Used,34688,67433,2014,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1178,Used,28613,43900,2008,Porsche,911,Carrera,Base,Cabriolet,Black,Manual
+1180,Used,41019,57800,2012,Porsche,911,Carrera,4S,Hardtop,Black,Manual
+1181,Used,36118,47977,2009,Porsche,911,Carrera,S,Cabriolet,Black,Manual
+1183,Used,72700,34988,2007,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1184,Used,54727,34944,2007,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1185,Used,58158,32975,2007,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1186,Used,31022,66940,2015,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1187,Used,34155,49990,2012,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1189,Used,35800,64991,2011,Porsche,911,Carrera,4S,Hardtop,Black,Manual
+1190,Used,51500,55000,2013,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1192,Used,34042,56995,2014,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1195,Used,26180,57999,2013,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1196,Used,46970,58000,2010,Porsche,911,Carrera,4S,Cabriolet,Black,Manual
+1197,Used,29400,56995,2015,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1198,Used,10300,82900,2017,Porsche,911,Carrera,4S,Hardtop,Black,Manual
+1201,Used,36256,65999,2014,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1202,Used,28872,67900,2015,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1203,Used,11370,87000,2017,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1204,Used,35214,33000,2013,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1206,Used,49000,48700,2013,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1207,Used,49611,54981,2013,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1208,Used,18800,69999,2016,Porsche,911,Carrera,4,Black,Black,Manual
+1210,Porsche Certified,26973,64898,2012,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1211,Used,23124,59980,2013,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1213,Used,32322,56988,2014,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1215,Used,59850,59999,2014,Porsche,911,Carrera,4S,Hardtop,Black,Manual
+1216,Used,69978,58900,2014,Porsche,911,Carrera,4S,Hardtop,Black,Manual
+1218,Used,85000,34900,2009,Porsche,911,Carrera,S,Cabriolet,Black,Manual
+1220,Used,56436,51990,2012,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1221,Used,82450,32999,2009,Porsche,911,Carrera,S,Cabriolet,Black,Manual
+1223,Porsche Certified,33469,83875,2012,Porsche,911,Carrera,GTS4,Hardtop,Black,Manual
+1224,Porsche Certified,27962,64490,2014,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1225,Used,20039,67790,2013,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1227,Used,54905,53000,2012,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1228,Used,66437,35990,2007,Porsche,911,Carrera,4S,Cabriolet,Black,Manual
+1229,Used,30465,74680,2014,Porsche,911,Carrera,4S,Hardtop,Black,Manual
+1230,Used,35475,67395,2013,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1231,Used,39245,57900,2013,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1232,Used,59785,64000,2013,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1233,Used,40208,59991,2016,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1234,Used,53111,39998,2011,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1235,Porsche Certified,47438,69998,2017,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1236,Used,18259,69950,2011,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1238,Used,16587,51950,2009,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1239,Used,17081,60999,2012,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1240,Porsche Certified,18823,75991,2014,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1242,Used,16004,95800,2018,Porsche,911,Carrera,4S,Hardtop,Black,Manual
+1244,Used,20059,59995,2011,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1245,Used,53787,44990,2010,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1246,Used,45209,42900,2007,Porsche,911,Carrera,Base,Cabriolet,Black,Manual
+1249,Used,27748,49900,2009,Porsche,911,Carrera,Base,Cabriolet,Black,Manual
+1250,Used,39508,58900,2014,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1251,Used,24640,62998,2015,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1252,Used,51392,45980,2010,Porsche,911,Carrera,4,Cabriolet,Black,Manual
+1253,Used,20500,49500,2010,Porsche,911,Carrera,Base,Hardtop,Black,Manual
+1254,Used,38463,67999,2014,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1255,Used,65757,41977,2007,Porsche,911,Carrera,4S,Hardtop,Black,Manual
+1256,Used,19727,75291,2014,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1257,Used,16500,104000,2017,Porsche,911,Carrera,GTS4,Hardtop,Black,Manual
+1258,Used,37884,51950,2010,Porsche,911,Carrera,S,Hardtop,Black,Manual
+1260,Used,78611,39988,2008,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1261,Used,22463,56997,2013,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1262,Used,24812,59950,2013,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1264,Used,31650,44995,2007,Porsche,911,Carrera,S,Cabriolet,Gray/Silver,Manual
+1267,Used,34916,79995,2014,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Manual
+1268,Used,33041,57890,2013,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1270,Used,32831,57900,2009,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1271,Used,46398,43500,2007,Porsche,911,Carrera,4S,Cabriolet,Gray/Silver,Manual
+1273,Used,41245,50725,2008,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1274,Used,51804,35895,2007,Porsche,911,Carrera,S,Cabriolet,Gray/Silver,Manual
+1275,Used,55000,45000,2007,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1276,Used,18158,62995,2007,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Manual
+1277,Used,23019,83950,2015,Porsche,911,Carrera,GTS,Hardtop,Gray/Silver,Manual
+1278,Used,56498,38500,2008,Porsche,911,Carrera,4,Cabriolet,Gray/Silver,Manual
+1280,Used,44193,49950,2011,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1281,Used,5497,85000,2018,Porsche,911,Carrera,T,Hardtop,Gray/Silver,Manual
+1282,Used,69813,32000,2007,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1283,Used,33139,42500,2008,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1284,Porsche Certified,6185,126995,2018,Porsche,911,Carrera,GTS4,Hardtop,Gray/Silver,Manual
+1285,Used,32148,72609.41927,2008,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1286,Used,45533,30995,2007,Porsche,911,Carrera,Base,Cabriolet,Gray/Silver,Manual
+1287,Used,63485,39900,2007,Porsche,911,Carrera,4S,Cabriolet,Gray/Silver,Manual
+1288,Used,64498,34995,2007,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1289,Used,96502,31980,2008,Porsche,911,Carrera,S,Cabriolet,Gray/Silver,Manual
+1291,Porsche Certified,8402,84500,2018,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1292,Used,26738,80995,2017,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1293,Used,72000,32000,2008,Porsche,911,Carrera,4,Hardtop,Gray/Silver,Manual
+1297,Porsche Certified,5133,97970,2018,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1298,Used,52500,99999,2008,Porsche,911,Carrera,S,Cabriolet,Gray/Silver,Manual
+1299,Used,2742,101950,2019,Porsche,911,Carrera,T,Hardtop,Gray/Silver,Manual
+1300,Used,51077,41900,2008,Porsche,911,Carrera,S,Cabriolet,Gray/Silver,Manual
+1301,Porsche Certified,13706,83900,2017,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1302,Used,36522,63900,2013,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1304,Used,51118,42890,2009,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1305,Used,27396,88888,2017,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Manual
+1306,Used,13655,88991,2016,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Manual
+1307,Used,34135,44925,2007,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1308,Used,20530,52400,2008,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1309,Used,40500,57991,2012,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1311,Used,37104,45000,2007,Porsche,911,Carrera,4S,Cabriolet,Gray/Silver,Manual
+1312,Used,6846,94994,2017,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1314,Used,59931,34998,2007,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1315,Used,143119,23950,2007,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1316,Used,237,124900,2019,Porsche,911,Carrera,GTS,Hardtop,Gray/Silver,Manual
+1317,Used,83499,28880,2007,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1318,Used,15523,60999,2014,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1319,Used,8410,87998,2017,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1320,Used,12181,80995,2017,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1322,Used,20416,79283,2018,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1323,Used,1284,114000,2019,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Manual
+1325,Used,53000,45500,2008,Porsche,911,Carrera,4S,Cabriolet,Gray/Silver,Manual
+1326,Used,5900,100000,2017,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Manual
+1327,Used,1835,98995,2019,Porsche,911,Carrera,T,Hardtop,Gray/Silver,Manual
+1328,Used,39326,87900,2017,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Manual
+1333,Porsche Certified,43092,75900,2017,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1335,Used,25700,54999,2009,Porsche,911,Carrera,S,Cabriolet,Gray/Silver,Manual
+1338,Used,41,178900,2016,Porsche,911,Carrera,GTS,Hardtop,Gray/Silver,Manual
+1341,Used,4500,107900,2017,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Manual
+1350,Used,62367,36000,2007,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1351,Used,51025,53998,2015,Porsche,911,Carrera,4,Hardtop,Gray/Silver,Manual
+1354,Used,22642,75000,2014,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1355,Porsche Certified,10545,84991,2018,Porsche,911,Carrera,Base,Hardtop,Gray/Silver,Manual
+1356,Used,58482,72609.41927,2007,Porsche,911,Carrera,4S,Hardtop,Gray/Silver,Manual
+1357,Used,38397,44887,2008,Porsche,911,Carrera,S,Hardtop,Gray/Silver,Manual
+1358,Used,8592,83885,2018,Porsche,911,Carrera,Base,Hardtop,Other,Manual
+1359,Used,54990,39995,2008,Porsche,911,Carrera,S,Hardtop,Other,Manual
+1360,Used,32842,69000,2015,Porsche,911,Carrera,S,Hardtop,Other,Manual
+1364,Used,13025,61503,2014,Porsche,911,Carrera,4,Hardtop,Other,Manual
+1365,Used,25906,93995,2016,Porsche,911,Carrera,GTS,Hardtop,Other,Manual
+1367,Used,3427,139863,2019,Porsche,911,Carrera,GTS4,Hardtop,Other,Manual
+1368,Used,29281,63900,2009,Porsche,911,Carrera,S,Hardtop,Other,Manual
+1373,Used,4434,76599,2016,Porsche,911,Carrera,Base,Hardtop,Other,Manual
+1374,Used,9832,80000,2017,Porsche,911,Carrera,Base,Hardtop,Other,Manual
+1375,Used,18156,88984,2015,Porsche,911,Carrera,GTS,Hardtop,Other,Manual
+1378,Used,24418,89989,2017,Porsche,911,Carrera,4S,Hardtop,Other,Manual
+1380,Used,20788,52475,2007,Porsche,911,Carrera,Base,Hardtop,Other,Manual
+1383,Used,11813,84000,2016,Porsche,911,Carrera,4S,Hardtop,Other,Manual
+1384,Porsche Certified,9444,84950,2018,Porsche,911,Carrera,Base,Hardtop,Other,Manual
+1386,Used,1378,102900,2018,Porsche,911,Carrera,S,Hardtop,Other,Manual
+1387,Used,43824,68990,2014,Porsche,911,Carrera,S,Hardtop,Other,Manual
+1388,Used,43,178900,2016,Porsche,911,Carrera,GTS,Hardtop,Other,Manual
+1389,Used,144,159991,2016,Porsche,911,Carrera,GTS,Hardtop,Other,Manual
+1391,Used,6242,106977,2018,Porsche,911,Carrera,T,Hardtop,Other,Manual
+1392,Used,6296,129995,2018,Porsche,911,Carrera,4S,Hardtop,Other,Manual
+1393,Used,11712,86514,2017,Porsche,911,Carrera,Base,Hardtop,Other,Manual
+1404,Used,4070,129000,2019,Porsche,911,Carrera,GTS,Hardtop,Other,Manual
+1407,Used,35900,64800,2012,Porsche,911,Carrera,S,Hardtop,Other,Manual
+1408,Used,17000,35000,2008,Porsche,911,Carrera,S,Cabriolet,Other,Manual
+1410,Porsche Certified,6380,72984,2015,Porsche,911,Carrera,Base,Hardtop,Other,Manual
+1413,Used,6038,72609.41927,2018,Porsche,911,Carrera,T,Hardtop,Other,Manual
+1415,Used,22365,68777,2015,Porsche,911,Carrera,Base,Hardtop,Other,Manual
+1417,Used,33545,45995,2007,Porsche,911,Carrera,S,Hardtop,Red,Manual
+1419,Used,17366,64900,2013,Porsche,911,Carrera,Base,Hardtop,Red,Manual
+1420,Used,106168,39971,2007,Porsche,911,Carrera,4S,Hardtop,Red,Manual
+1422,Used,6806,92795,2019,Porsche,911,Carrera,Base,Hardtop,Red,Manual
+1423,Used,6732,72950,2009,Porsche,911,Carrera,S,Hardtop,Red,Manual
+1424,Used,23656,65900,2007,Porsche,911,Carrera,4S,Hardtop,Red,Manual
+1425,Used,49168,42900,2007,Porsche,911,Carrera,Base,Cabriolet,Red,Manual
+1426,Used,37527,93900,2016,Porsche,911,Carrera,GTS4,Hardtop,Red,Manual
+1427,Used,9254,54888,2007,Porsche,911,Carrera,4S,Cabriolet,Red,Manual
+1429,Used,15787,59995,2007,Porsche,911,Carrera,4S,Hardtop,Red,Manual
+1430,Used,36100,71000,2017,Porsche,911,Carrera,Base,Hardtop,Red,Manual
+1431,Used,7742,93800,2018,Porsche,911,Carrera,S,Hardtop,Red,Manual
+1433,Used,753,94988,2019,Porsche,911,Carrera,Base,Hardtop,Red,Manual
+1434,Used,4950,98900,2012,Porsche,911,Carrera,GTS4,Hardtop,Red,Manual
+1436,Used,3207,127991,2018,Porsche,911,Carrera,GTS,Hardtop,Red,Manual
+1439,Porsche Certified,21358,76995,2017,Porsche,911,Carrera,Base,Hardtop,Red,Manual
+1440,Porsche Certified,8708,69984,2013,Porsche,911,Carrera,Base,Hardtop,Red,Manual
+1441,Used,15539,82000,2018,Porsche,911,Carrera,Base,Hardtop,Red,Manual
+1442,Used,19950,59995,2009,Porsche,911,Carrera,S,Cabriolet,Red,Manual
+1443,Used,6040,112340,2019,Porsche,911,Carrera,Base,Hardtop,Red,Manual
+1444,Used,29677,57900,2013,Porsche,911,Carrera,Base,Hardtop,Red,Manual
+1445,Used,65396,72609.41927,2008,Porsche,911,Carrera,S,Hardtop,Red,Manual
+1446,Used,29961,57888,2013,Porsche,911,Carrera,Base,Hardtop,White,Manual
+1447,Used,30645,41994,2007,Porsche,911,Carrera,S,Hardtop,White,Manual
+1448,Used,2878,94800,2019,Porsche,911,Carrera,T,Hardtop,White,Manual
+1450,Used,19555,62000,2013,Porsche,911,Carrera,Base,Hardtop,White,Manual
+1451,Used,36382,54991,2011,Porsche,911,Carrera,S,Hardtop,White,Manual
+1452,Used,16869,68998,2015,Porsche,911,Carrera,Base,Hardtop,White,Manual
+1453,Used,46817,55952,2014,Porsche,911,Carrera,Base,Hardtop,White,Manual
+1454,Used,75911,36788,2008,Porsche,911,Carrera,S,Cabriolet,White,Manual
+1455,Used,18431,40625,2007,Porsche,911,Carrera,Base,Cabriolet,White,Manual
+1456,Used,40839,62900,2013,Porsche,911,Carrera,S,Hardtop,White,Manual
+1458,Porsche Certified,31570,75500,2017,Porsche,911,Carrera,Base,Hardtop,White,Manual
+1459,Used,31531,56990,2012,Porsche,911,Carrera,S,Hardtop,White,Manual
+1460,Used,42500,75500,2012,Porsche,911,Carrera,GTS4,Hardtop,White,Manual
+1461,Used,38469,77788,2017,Porsche,911,Carrera,Base,Hardtop,White,Manual
+1462,Porsche Certified,27594,76900,2015,Porsche,911,Carrera,S,Hardtop,White,Manual
+1464,Used,11728,59997,2014,Porsche,911,Carrera,Base,Hardtop,White,Manual
+1465,Used,17982,59997,2012,Porsche,911,Carrera,Base,Hardtop,White,Manual
+1466,Used,3100,81900,2012,Porsche,911,Carrera,S,Hardtop,White,Manual
+1467,Used,6717,83979,2018,Porsche,911,Carrera,Base,Hardtop,White,Manual
+1468,Used,22175,68950,2012,Porsche,911,Carrera,S,Hardtop,White,Manual
+1469,Used,38073,78950,2015,Porsche,911,Carrera,4S,Hardtop,White,Manual
+1472,Used,10771,102900,2018,Porsche,911,Carrera,S,Hardtop,White,Manual
+1473,Porsche Certified,16386,71510,2013,Porsche,911,Carrera,Base,Hardtop,White,Manual
+1474,Used,6000,86800,2019,Porsche,911,Carrera,T,Hardtop,White,Manual
+1475,Used,4660,109900,2019,Porsche,911,Carrera,T,Hardtop,White,Manual
+1476,Used,10400,80500,2018,Porsche,911,Carrera,Base,Hardtop,White,Manual
+1477,Used,3100,112900,2018,Porsche,911,Carrera,S,Hardtop,White,Manual
+1486,Used,33863,69900,2012,Porsche,911,Carrera,S,Hardtop,White,Manual
+1489,Used,10204,99900,2017,Porsche,911,Carrera,S,Hardtop,White,Manual
+1491,Used,52367,69990,2012,Porsche,911,Carrera,GTS,Hardtop,White,Manual
+1492,Used,9687,93999,2017,Porsche,911,Carrera,4S,Hardtop,White,Manual
+1493,Used,19826,99950,2017,Porsche,911,Carrera,4S,Hardtop,White,Manual
+1494,Used,15710,89995,2016,Porsche,911,Carrera,4S,Hardtop,White,Manual
+1495,Used,502,93900,2018,Porsche,911,Carrera,T,Hardtop,White,Manual
+1496,Used,5182,81995,2016,Porsche,911,Carrera,S,Hardtop,White,Manual
+1501,Porsche Certified,10074,112000,2018,Porsche,911,Carrera,4S,Hardtop,White,Manual
