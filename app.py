@@ -6,7 +6,10 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 import joblib
+import pandas as pd
+import numpy as np
 #
+test_model_data = pd.read_csv('Unit-2-Build\Test_Car.csv',index_col=[0])
 
 external_stylesheets = ['https://codepen.io/amyoshino/pen/jzXypZ.css']
 # Boostrap CSS.
@@ -59,7 +62,8 @@ app.layout = html.Div(
                     id="Milage",
                     type='number',
                     placeholder="Milage",
-                    className='one columns offset-by-one'   
+                    className='one columns offset-by-one',
+                    value=30000   
                 ),
                 dcc.Dropdown(
                     id='condition',
@@ -68,7 +72,8 @@ app.layout = html.Div(
                     {'label': 'Used', 'value': 'Used'},
                     {'label': 'CPO', 'value': 'CPO'},
                             ],
-                    className='one columns offset-by-one'
+                    className='one columns offset-by-one',
+                    value="Used",
                             ), 
                 dcc.Dropdown(
                     id='Year',
@@ -82,7 +87,7 @@ app.layout = html.Div(
                     {'label': '2017', 'value': 2017},
                     {'label': '2018', 'value': 2018},
                     {'label': '2019', 'value': 2019},
-                            ],value='Year',
+                            ],value='2013',
                     className='one columns offset-by-one'
                             ),
                 dcc.Dropdown(
@@ -97,7 +102,8 @@ app.layout = html.Div(
                     {'label': 'Red', 'value': 'Red'},
                     {'label': 'Other', 'value': 'Other'},
                             ],
-                    className='one columns offset-by-one'
+                    className='one columns offset-by-one',
+                    value='Black',
                             ),
                 dcc.Dropdown(
                     id='Transmission',
@@ -106,7 +112,8 @@ app.layout = html.Div(
                     {'label': 'Automatic', 'value': 'Black'},
                     {'label': 'White', 'value': 'White'},
                             ],
-                    className='one columns offset-by-one'
+                    className='one columns offset-by-one',
+                    value='Automatic'
                             ),
                 dcc.Dropdown(
                     id='Cabriolet',
@@ -115,6 +122,7 @@ app.layout = html.Div(
                     {'label': 'Cabriolet', 'value': 'Cabriolet'},
                     {'label': 'Hardtop', 'value': 'Hardtop'},
                             ],
+                    value='Cabriolet',
                     className='one columns offset-by-one'
                 ),
             ], className="row",
@@ -123,12 +131,25 @@ app.layout = html.Div(
             [
                 html.Hr()
             ], className="row",
-        ),    
-    
+        ),
+        html.Div(
+            [
+                html.Div(id='result')
+            ], className="row",
+        ),        
     ])
 )
-        
+@app.callback(
+    Output(component_id='result', component_property='children'),
+    [Input (component_id='Milage', component_property='value')])
+def update_milage_input(Milage):
+    if Milage is not None and Milage is not '':
+        try:
+            price = model.predict(test_model_data)
+            return price
+        except ValueError:
+            return 'Something went wrong.'        
 
 if __name__ == '__main__':
-    model = joblib.load("911_Price.sav")
+    model = joblib.load('Unit-2-Build\911_Price.sav')
     app.run_server(debug=True)
