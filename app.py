@@ -6,10 +6,11 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 import joblib
+import pickle
 import pandas as pd
 import numpy as np
 #
-test_model_data = pd.read_csv('Unit-2-Build\Test_Car.csv',index_col=[0])
+test_model_data = pd.read_csv('https://raw.githubusercontent.com/popkdodge/Unit-2-Build/master/Test_Car.csv',index_col=[0])
 
 external_stylesheets = ['https://codepen.io/amyoshino/pen/jzXypZ.css']
 # Boostrap CSS.
@@ -145,11 +146,11 @@ app.layout = html.Div(
 def update_milage_input(Milage):
     if Milage is not None and Milage is not '':
         try:
-            price = model.predict(test_model_data)
+            price = model.predict([test_model_data])
             return price
         except ValueError:
             return 'Something went wrong.'        
 
 if __name__ == '__main__':
-    model = joblib.load('Unit-2-Build\911_Price.sav')
+    model = joblib.load('911.pkl')
     app.run_server(debug=True)
