@@ -98,6 +98,7 @@ fig.add_shape(
                 color="Green",
                 width=3
             )))
+graph = fig.to_dict()
 #VIS2
 import plotly.graph_objects as go
 
@@ -114,6 +115,7 @@ fig1 = go.Figure(go.Indicator(
                  {'range': [-3333, 3333], 'color': "#464C47"},
                  {'range': [3333, 10000], 'color': "#A43131"}],
              'threshold' : {'line': {'color': "Black", 'width': 4}, 'thickness': 0.75, 'value': 300}}))
+graph1 = fig1.to_dict()
 #VIS3
 fig2 = px.scatter(df, x="Year", y="Price", color="Transmission", trendline="lowess")
 fig2.update_layout(
@@ -123,17 +125,13 @@ fig2.update_layout(
     font=dict(
         family="Courier New, monospace",
         size=18,
-        color="#7f7f7f"))
-#VIS4
-fig3 = px.scatter(df, x="Year", y="Price", color="Transmission", trendline="lowess")
-fig3.update_layout(
-    title="The 991.1 and 991.2",
-    xaxis_title="Model Year",
-    yaxis_title="Price",
-    font=dict(
-        family="Courier New, monospace",
-        size=18,
-        color="#7f7f7f"))
+        color="#7f7f7f"),
+        xaxis=dict(
+        range=[2011.5, 2019.5]),
+    yaxis=dict(
+        range=[30000, 150000]),)
+graph2 = fig2.to_dict()
+
 
 
 external_stylesheets = ['https://codepen.io/amyoshino/pen/jzXypZ.css']
@@ -146,17 +144,17 @@ app.layout = html.Div(
             [
                 html.H1(
                         children='Porsche 911 Carrera',
-                        className='nine columns offset-by-four',
+                        className='nine columns',
                         style={
                         'height': '15%',
                         'width': '30%',
-                        'float': 'center',
-                        'position': 'center',
+                        'float': 'left',
+                        'position': 'relative',
+                        'top': 10,
                         'margin-top': 30,
                         'text-align': 'center',
                         'background-color': 'white',
-                        'font-size': '500%' ,
-                        'top-padding': 40
+                        'font-size': 70 ,
                         },
                         ),    
                 html.Img(
@@ -176,11 +174,10 @@ app.layout = html.Div(
             }
             
         ),
-        html.Div(
-            [
-                html.Hr()
-            ], className="row",
-        ),
+        html.Div(className='row',children='.',
+        style={'background-color':'#EFF0F1',
+                'color':'#EFF0F1',},
+                ),
         html.Div(
             [
                 dcc.Input(
@@ -268,37 +265,39 @@ app.layout = html.Div(
                     className='one columns offset-by-one-haft'
                 ),
             ], className="row",
+                style={'background-color':'#EFF0F1'}
         ),
-        html.Div(
-            [
-                html.Hr()
-            ], className="row",
-        ),
+        html.Div(className='row',children='.',
+        style={'background-color':'#EFF0F1',
+                'color':'#EFF0F1',},
+                ),
         html.Div(
             [
                 html.H1(id='result', 
                         children='',
                         className='nine columns offset-by-three',
                         style={
-                        
+                        'color':'#959899'
                         })
             ], className="row",
+                style={
+                    'background-color':'#313639',
+                }
         ), 
-        html.Div(
-            [
-                html.Hr()
-            ], className="row",
-        ), 
+        html.Div(className='row',children='.',
+        style={'background-color':'#EFF0F1',
+                'color':'#EFF0F1',},
+                ),
         html.Div(
             [
                 html.Div(
                     [   
-                    dcc.Graph(figure=fig, id='fig1'),
+                    dcc.Graph(figure=graph, id='fig1'),
                     ],className='six columns'
                 ),
                 html.Div(
                     [   
-                    dcc.Graph(figure=fig1, id='fig2')
+                    dcc.Graph(figure=graph1, id='fig2')
                     ],className='six columns'
                 ),
             ], className="row",
@@ -307,20 +306,22 @@ app.layout = html.Div(
             [
                 html.Div(
                     [   
-                    dcc.Graph(figure=fig2, id='fig3')
-                    ],className='ten columns offset-by-one'
+                    dcc.Graph(figure=graph2, id='fig3')
+                    ],className='ten columns offset-by-one',
+                    style={
+                    'background-clor':'gray',},
                 ),
                
             ], className="row",
+            
         ),
-        html.Div(
-            id='output',
-            children= number,
-            style={'display': 'none'},
-            className="row",
-        ),
-               
-    ]),
+                    
+    ],style={
+            'background-clor':'EFF0F1',
+            #'background-image': 'https://www.motortrend.com/uploads/sites/5/2020/02/2019-Porsche-Panamera-GTS-29.jpg',
+            'background-size': 'cover',
+            'background-position': 'center',
+            },),
 )
 @app.callback(
     Output(component_id='result', component_property='children'),
@@ -347,15 +348,198 @@ def update_price_input(Milage, condition, Year, Color, Transmission, Cabriolet, 
     return (f"High: ${high:,.0f}  Fair:  ${fair:,.0f}  Low: ${low:,.0f}")
 
 @app.callback(
-    Output(component_id='output', component_property='children'),
-    [Input(component_id='Year', component_property='value')])        
-def update_year_and_std(value):
-    number.pop()
-    number.append(value)
-    return number
+    Output(component_id='fig1', component_property='figure'),
+    [Input (component_id='Milage', component_property='value'),
+    Input (component_id='condition', component_property='value'),
+    Input (component_id='Year', component_property='value'),
+    Input (component_id='Color', component_property='value'),
+    Input (component_id='Transmission', component_property='value'),
+    Input (component_id='Cabriolet', component_property='value'),
+    Input (component_id='S_RS', component_property='value'),
+    ])        
+def update_year_and_std(Milage, condition, Year, Color, Transmission, Cabriolet, S_RS):
+    test_model_data.milage = Milage
+    test_model_data.condition = condition
+    test_model_data.Year = Year
+    test_model_data.Color = Color
+    test_model_data.Transmission = Transmission
+    test_model_data.Cabriolet = Cabriolet
+    test_model_data.S_RS = S_RS
+    number = Year
+    np.random.seed(1)
+    mean = df.Price[df.Year==number].mean()
+    std = df.Price[df.Year==number].std()
+    x = np.random.randn(10000)
+    model = joblib.load('Unit-2-Build/911_Price.pkl')
+    price = model.predict(test_model_data)
+    spot = (mean-price[0])/-std
+    hist_data = [x]
+    group_labels = ['911 Carrera'] # name of the dataset
+    fig = ff.create_distplot(hist_data, group_labels)
+    fig.update_layout(
+        title={
+            'text': f"{number} Carrera Price Distribution",
+            'y':0.9,
+            'x':0.5,
+            'xanchor': 'center',
+            'yanchor': 'top'},
+        font=dict(
+            family="Courier New, monospace",
+            size=18,
+            color="#7f7f7f")
+        )
+    fig.add_trace(go.Scatter(
+        x=[0,2.13,-2.11],
+        y=[0.45,0.3,0.3],
+        text=[f"Mean:{mean:,.0f}",f'1 STD:{(mean+std):,.0f}',f'-1 STD:{mean-std:,.0f}'],
+        mode="text",
+    )) 
 
+    fig.add_shape(
+            # Line Vertical
+            dict(
+                type="line",
+                x0=0,
+                y0=0,
+                x1=0,
+                y1=0.4,
+                line=dict(
+                    color="Yellow",
+                    width=3
+                )))
+    fig.add_shape(
+            # Line Vertical
+            dict(
+                type="line",
+                x0=1,
+                y0=0,
+                x1=1,
+                y1=0.23,
+                line=dict(
+                    color="Red",
+                    width=3
+                )))
+    fig.add_shape(
+            # Line Vertical
+            dict(
+                type="line",
+                x0=-1,
+                y0=0,
+                x1=-1,
+                y1=0.23,
+                line=dict(
+                    color="red",
+                    width=3
+                )))
+    fig.add_shape(
+            # Line Vertical
+            dict(
+                type="line",
+                x0=spot,
+                y0=0,
+                x1=spot,
+                y1=0.4,
+                line=dict(
+                    color="Green",
+                    width=3
+                )))
+    graph = fig.to_dict()
+    return graph
+@app.callback(
+    Output(component_id='fig2', component_property='figure'),
+    [Input (component_id='Milage', component_property='value'),
+    Input (component_id='condition', component_property='value'),
+    Input (component_id='Year', component_property='value'),
+    Input (component_id='Color', component_property='value'),
+    Input (component_id='Transmission', component_property='value'),
+    Input (component_id='Cabriolet', component_property='value'),
+    Input (component_id='S_RS', component_property='value'),
+    ])        
+def update_graph2(Milage, condition, Year, Color, Transmission, Cabriolet, S_RS):
+    test_model_data.milage = Milage
+    test_model_data.condition = condition
+    test_model_data.Year = Year
+    test_model_data.Color = Color
+    test_model_data.Transmission = Transmission
+    test_model_data.Cabriolet = Cabriolet
+    test_model_data.S_RS = S_RS
+    price = model.predict(test_model_data)
+    mean = df.Price[df.Year==Year].mean()
+    fig1 = go.Figure(go.Indicator(
+    domain = {'x': [0, 1], 'y': [0, 1]},
+    value = price[0],
+    mode = "gauge+number+delta",
+    title = {'text': "Price"},
+    delta = {'reference': mean},
+    gauge = {'axis': {'range': [mean-15000, mean+15000]},
+            'bar': {'color': "#402306"},
+             'steps' : [
+                 {'range': [mean-15000, mean-5000], 'color': "#C29049"},
+                 {'range': [mean-5000, mean+5000], 'color': "#464C47"},
+                 {'range': [mean+5000, mean+15000], 'color': "#A43131"}],
+             'threshold' : {'line': {'color': "Black", 'width': 4}, 'thickness': 0.75, 'value': 300}}))
+    graph1 = fig1.to_dict()
+    return graph1
+@app.callback(
+    Output(component_id='fig3', component_property='figure'),
+    [Input (component_id='Milage', component_property='value'),
+    Input (component_id='condition', component_property='value'),
+    Input (component_id='Year', component_property='value'),
+    Input (component_id='Color', component_property='value'),
+    Input (component_id='Transmission', component_property='value'),
+    Input (component_id='Cabriolet', component_property='value'),
+    Input (component_id='S_RS', component_property='value'),
+    ])        
+def update_graph3(Milage, condition, Year, Color, Transmission, Cabriolet, S_RS):
+    test_model_data.milage = Milage
+    test_model_data.condition = condition
+    test_model_data.Year = Year
+    test_model_data.Color = Color
+    test_model_data.Transmission = Transmission
+    test_model_data.Cabriolet = Cabriolet
+    test_model_data.S_RS = S_RS
+    price = model.predict(test_model_data)
+    fig2 = px.scatter(df, x="Year", y="Price", color="Transmission", trendline="lowess")
+    fig2.update_layout(
+        title="The 991.1 and 991.2",
+        xaxis_title="Model Year",
+        yaxis_title="Price",
+        font=dict(
+            family="Courier New, monospace",
+            size=18,
+            color="#7f7f7f"),
+            xaxis=dict(
+            range=[2011.5, 2019.5]),
+        yaxis=dict(
+            range=[30000, 150000]),)
+    fig2.add_annotation(
+        x=Year,
+        y=price[0],
+        xref="x",
+        yref="y",
+        text="Your Car Here",
+        showarrow=True,
+        font=dict(
+            family="Courier New, monospace",
+            size=16,
+            color="#ffffff"
+            ),
+        align="center",
+        arrowhead=2,
+        arrowsize=1,
+        arrowwidth=2,
+        arrowcolor="#636363",
+        ax=50,
+        ay=-50,
+        bordercolor="#c7c7c7",
+        borderwidth=2,
+        borderpad=4,
+        bgcolor="#ff7f0e",
+        opacity=0.8
+        )
 
-
+    graph2 = fig2.to_dict()
+    return graph2
 if __name__ == '__main__':
     model = joblib.load('Unit-2-Build/911_Price.pkl')
     app.run_server(debug=True)
