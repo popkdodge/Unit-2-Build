@@ -5,12 +5,136 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
+import plotly.figure_factory as ff
+import plotly.graph_objects as go
 import joblib
 import pickle
 import pandas as pd
 import numpy as np
-#
+import plotly.express as px
+import plotly.express as px
+#test model data & df
 test_model_data = pd.read_csv('https://raw.githubusercontent.com/popkdodge/Unit-2-Build/master/Test_Car.csv',index_col=[0])
+test_model_data = test_model_data.T
+df = pd.read_csv('https://raw.githubusercontent.com/popkdodge/Unit-2-Build/master/Carrera_911_1_2.csv',index_col=[0])
+
+# VIS 1
+number = [2015]
+np.random.seed(1)
+mean = df.Price[df.Year==number[0]].mean()
+std = df.Price[df.Year==number[0]].std()
+x = np.random.randn(10000)
+model = joblib.load('Unit-2-Build/911_Price.pkl')
+price = model.predict(test_model_data)
+spot = (mean-price[0])/std
+hist_data = [x]
+fair = round(price[0],0)
+group_labels = ['911 Carrera'] # name of the dataset
+fig = ff.create_distplot(hist_data, group_labels)
+fig.update_layout(
+    title={
+        'text': f"{number[0]} Carrera Price Distribution",
+        'y':0.9,
+        'x':0.5,
+        'xanchor': 'center',
+        'yanchor': 'top'},
+    font=dict(
+        family="Courier New, monospace",
+        size=18,
+        color="#7f7f7f")
+    )
+fig.add_trace(go.Scatter(
+    x=[0,2.13,-2.11],
+    y=[0.45,0.3,0.3],
+    text=[f"Mean:{mean:,.0f}",f'1 STD:{(mean+std):,.0f}',f'-1 STD:{mean-std:,.0f}'],
+    mode="text",
+)) 
+
+fig.add_shape(
+        # Line Vertical
+        dict(
+            type="line",
+            x0=0,
+            y0=0,
+            x1=0,
+            y1=0.4,
+            line=dict(
+                color="Yellow",
+                width=3
+            )))
+fig.add_shape(
+        # Line Vertical
+        dict(
+            type="line",
+            x0=1,
+            y0=0,
+            x1=1,
+            y1=0.23,
+            line=dict(
+                color="Red",
+                width=3
+            )))
+fig.add_shape(
+        # Line Vertical
+        dict(
+            type="line",
+            x0=-1,
+            y0=0,
+            x1=-1,
+            y1=0.23,
+            line=dict(
+                color="red",
+                width=3
+            )))
+fig.add_shape(
+        # Line Vertical
+        dict(
+            type="line",
+            x0=spot,
+            y0=0,
+            x1=spot,
+            y1=0.4,
+            line=dict(
+                color="Green",
+                width=3
+            )))
+#VIS2
+import plotly.graph_objects as go
+
+fig1 = go.Figure(go.Indicator(
+    domain = {'x': [0, 1], 'y': [0, 1]},
+    value = 3456,
+    mode = "gauge+number+delta",
+    title = {'text': "Price"},
+    delta = {'reference': 0},
+    gauge = {'axis': {'range': [-10000, 10000]},
+            'bar': {'color': "#402306"},
+             'steps' : [
+                 {'range': [-10000, -3333], 'color': "#C29049"},
+                 {'range': [-3333, 3333], 'color': "#464C47"},
+                 {'range': [3333, 10000], 'color': "#A43131"}],
+             'threshold' : {'line': {'color': "Black", 'width': 4}, 'thickness': 0.75, 'value': 300}}))
+#VIS3
+fig2 = px.scatter(df, x="Year", y="Price", color="Transmission", trendline="lowess")
+fig2.update_layout(
+    title="The 991.1 and 991.2",
+    xaxis_title="Model Year",
+    yaxis_title="Price",
+    font=dict(
+        family="Courier New, monospace",
+        size=18,
+        color="#7f7f7f"))
+#VIS4
+fig3 = px.scatter(df, x="Year", y="Price", color="Transmission", trendline="lowess")
+fig3.update_layout(
+    title="The 991.1 and 991.2",
+    xaxis_title="Model Year",
+    yaxis_title="Price",
+    font=dict(
+        family="Courier New, monospace",
+        size=18,
+        color="#7f7f7f"))
+
 
 external_stylesheets = ['https://codepen.io/amyoshino/pen/jzXypZ.css']
 # Boostrap CSS.
@@ -63,7 +187,7 @@ app.layout = html.Div(
                     id="Milage",
                     type='number',
                     placeholder="Milage",
-                    className='one columns offset-by-one',
+                    className='one columns offset-by-two',
                     value=30000   
                 ),
                 dcc.Dropdown(
@@ -73,8 +197,9 @@ app.layout = html.Div(
                     {'label': 'Used', 'value': 'Used'},
                     {'label': 'CPO', 'value': 'CPO'},
                             ],
-                    className='one columns offset-by-one',
+                    className='one columns offset-by-one-haft',
                     value="Used",
+                    
                             ), 
                 dcc.Dropdown(
                     id='Year',
@@ -89,7 +214,7 @@ app.layout = html.Div(
                     {'label': '2018', 'value': 2018},
                     {'label': '2019', 'value': 2019},
                             ],value='2013',
-                    className='one columns offset-by-one'
+                    className='one columns offset-by-one-haft'
                             ),
                 dcc.Dropdown(
                     id='Color',
@@ -103,17 +228,17 @@ app.layout = html.Div(
                     {'label': 'Red', 'value': 'Red'},
                     {'label': 'Other', 'value': 'Other'},
                             ],
-                    className='one columns offset-by-one',
+                    className='one columns offset-by-one-haft',
                     value='Black',
                             ),
                 dcc.Dropdown(
                     id='Transmission',
                     placeholder='Transmission',
                     options=[
-                    {'label': 'Automatic', 'value': 'Black'},
-                    {'label': 'White', 'value': 'White'},
+                    {'label': 'Automatic', 'value': 'Automatic'},
+                    {'label': 'Manual', 'value': 'Manual'},
                             ],
-                    className='one columns offset-by-one',
+                    className='one columns offset-by-one-haft',
                     value='Automatic'
                             ),
                 dcc.Dropdown(
@@ -124,7 +249,23 @@ app.layout = html.Div(
                     {'label': 'Hardtop', 'value': 'Hardtop'},
                             ],
                     value='Cabriolet',
-                    className='one columns offset-by-one'
+                    className='one columns offset-by-one-haft'
+                ),
+                dcc.Dropdown(
+                    id='S_RS',
+                    placeholder='Model',
+                    options=[
+                    {'label': 'Base', 'value': 'Base'},
+                    {'label': '4', 'value': '4'},
+                    {'label': 'S', 'value': 'S'},
+                    {'label': '4S', 'value': '4S'},
+                    {'label': 'GTS', 'value': 'GTS'},
+                    {'label': 'GTS4', 'value': 'GTS4'},
+                    {'label': 'T', 'value': 'T'},
+                    {'label': 'Black Edition', 'value': 'Black'},
+                            ],
+                    value='Base',
+                    className='one columns offset-by-one-haft'
                 ),
             ], className="row",
         ),
@@ -135,22 +276,86 @@ app.layout = html.Div(
         ),
         html.Div(
             [
-                html.Div(id='result')
+                html.H1(id='result', 
+                        children='',
+                        className='nine columns offset-by-three',
+                        style={
+                        
+                        })
             ], className="row",
-        ),        
-    ])
+        ), 
+        html.Div(
+            [
+                html.Hr()
+            ], className="row",
+        ), 
+        html.Div(
+            [
+                html.Div(
+                    [   
+                    dcc.Graph(figure=fig, id='fig1'),
+                    ],className='six columns'
+                ),
+                html.Div(
+                    [   
+                    dcc.Graph(figure=fig1, id='fig2')
+                    ],className='six columns'
+                ),
+            ], className="row",
+        ),
+        html.Div(
+            [
+                html.Div(
+                    [   
+                    dcc.Graph(figure=fig2, id='fig3')
+                    ],className='ten columns offset-by-one'
+                ),
+               
+            ], className="row",
+        ),
+        html.Div(
+            id='output',
+            children= number,
+            style={'display': 'none'},
+            className="row",
+        ),
+               
+    ]),
 )
 @app.callback(
     Output(component_id='result', component_property='children'),
-    [Input (component_id='Milage', component_property='value')])
-def update_milage_input(Milage):
-    if Milage is not None and Milage is not '':
-        try:
-            price = model.predict([test_model_data])
-            return price
-        except ValueError:
-            return 'Something went wrong.'        
+    [Input (component_id='Milage', component_property='value'),
+    Input (component_id='condition', component_property='value'),
+    Input (component_id='Year', component_property='value'),
+    Input (component_id='Color', component_property='value'),
+    Input (component_id='Transmission', component_property='value'),
+    Input (component_id='Cabriolet', component_property='value'),
+    Input (component_id='S_RS', component_property='value'),
+    ])
+def update_price_input(Milage, condition, Year, Color, Transmission, Cabriolet, S_RS):
+    test_model_data.milage = Milage
+    test_model_data.condition = condition
+    test_model_data.Year = Year
+    test_model_data.Color = Color
+    test_model_data.Transmission = Transmission
+    test_model_data.Cabriolet = Cabriolet
+    test_model_data.S_RS = S_RS
+    price = model.predict(test_model_data)
+    fair = round(price[0],0)
+    high = round(price[0]+(price[0]*.05),0)
+    low = round(price[0]-(price[0]*.05),0)
+    return (f"High: ${high:,.0f}  Fair:  ${fair:,.0f}  Low: ${low:,.0f}")
+
+@app.callback(
+    Output(component_id='output', component_property='children'),
+    [Input(component_id='Year', component_property='value')])        
+def update_year_and_std(value):
+    number.pop()
+    number.append(value)
+    return number
+
+
 
 if __name__ == '__main__':
-    model = joblib.load('911.pkl')
+    model = joblib.load('Unit-2-Build/911_Price.pkl')
     app.run_server(debug=True)
